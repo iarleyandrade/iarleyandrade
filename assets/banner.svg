@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Iarley Andrade — Full Stack Developer</title>
+  <desc id="desc">Banner escuro com uma representação das camadas interface, API e dados.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0a1019"/><stop offset="1" stop-color="#162a2d"/></linearGradient>
+    <linearGradient id="soft" x2="1" y2="0"><stop stop-color="#c9f37b"/><stop offset="1" stop-color="#76c5c7"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#49645a" stroke-opacity=".24"/></pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="28"/></filter>
+  </defs>
+  <rect width="1200" height="300" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="22" fill="url(#grid)"/>
+  <circle cx="976" cy="145" r="135" fill="#9dcf90" opacity=".13" filter="url(#glow)"/>
+  <path d="M55 46h32M55 46v32M1145 254h-32M1145 254v-32" fill="none" stroke="#c9f37b" stroke-width="2"/>
+  <circle cx="65" cy="134" r="5" fill="#c9f37b"/>
+  <text x="83" y="139" fill="#c9f37b" font-family="monospace" font-size="12" letter-spacing="2">FULL STACK DEVELOPER / FORTALEZA, CE</text>
+  <text x="55" y="207" fill="#f1f4f0" font-family="Arial, sans-serif" font-size="59" font-weight="700" letter-spacing="-3">Iarley Andrade</text>
+  <text x="57" y="242" fill="#aebfba" font-family="Arial, sans-serif" font-size="17">Do banco de dados à experiência do usuário.</text>
+  <g transform="translate(770 76)">
+    <circle cx="181" cy="77" r="123" fill="none" stroke="#9bbc9d" stroke-opacity=".25"/>
+    <circle cx="181" cy="77" r="84" fill="none" stroke="#9bbc9d" stroke-opacity=".34" stroke-dasharray="3 6"/>
+    <rect x="10" y="17" width="310" height="124" rx="11" fill="#182b31" stroke="#66887d"/>
+    <rect x="10" y="17" width="310" height="26" rx="11" fill="#294146"/>
+    <path d="M10 43h310" stroke="#66887d"/>
+    <circle cx="27" cy="30" r="3" fill="#c9f37b"/><circle cx="39" cy="30" r="3" fill="#6f9186"/><circle cx="51" cy="30" r="3" fill="#6f9186"/>
+    <text x="244" y="33" fill="#aecdc0" font-family="monospace" font-size="9">SYSTEM / 01</text>
+    <rect x="30" y="64" width="70" height="42" rx="5" fill="#29463f" stroke="#759980"/>
+    <rect x="131" y="64" width="70" height="42" rx="5" fill="#29463f" stroke="#759980"/>
+    <rect x="232" y="64" width="70" height="42" rx="5" fill="#29463f" stroke="#759980"/>
+    <path d="M100 85h31m70 0h31" stroke="url(#soft)" stroke-width="2"/>
+    <text x="53" y="90" fill="#e0f4d4" font-family="monospace" font-size="13">UI</text>
+    <text x="150" y="90" fill="#e0f4d4" font-family="monospace" font-size="13">API</text>
+    <text x="255" y="90" fill="#e0f4d4" font-family="monospace" font-size="13">DB</text>
+    <path d="M30 119h130" stroke="#5d8179" stroke-width="3" stroke-linecap="round"/>
+    <path d="M172 119h75" stroke="#c9f37b" stroke-width="3" stroke-linecap="round"/>
+  </g>
+</svg>

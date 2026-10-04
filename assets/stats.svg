@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="180" viewBox="0 0 1000 180" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub em números</title><desc id="desc">8 repositórios públicos, 7 seguidores, no GitHub desde 2021.</desc>
+  <rect width="1000" height="180" rx="15" fill="#101b24" stroke="#36524c"/>
+  <path d="M333 40v100M666 40v100" stroke="#36524c"/>
+  <circle cx="52" cy="48" r="5" fill="#c9f37b"/>
+  <text x="69" y="53" font-family="monospace" font-size="13" fill="#a5c8b9" letter-spacing="2">ATIVIDADE PÚBLICA</text>
+  <text x="50" y="116" font-family="Arial,sans-serif" font-size="56" font-weight="700" fill="#c9f37b">08</text>
+  <text x="50" y="147" font-family="Arial,sans-serif" font-size="15" fill="#c0d0c9">repositórios públicos</text>
+  <text x="383" y="116" font-family="Arial,sans-serif" font-size="56" font-weight="700" fill="#f1f4f0">7</text>
+  <text x="383" y="147" font-family="Arial,sans-serif" font-size="15" fill="#c0d0c9">pessoas acompanhando</text>
+  <text x="716" y="116" font-family="Arial,sans-serif" font-size="56" font-weight="700" fill="#76c5c7">2021</text>
+  <text x="716" y="147" font-family="Arial,sans-serif" font-size="15" fill="#c0d0c9">no GitHub desde</text>
+</svg>
