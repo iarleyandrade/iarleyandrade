@@ -35,15 +35,13 @@ Também desenvolvo aplicações com **Flutter** e exploro integração entre sof
 - **TocTocApp** — campainha inteligente que conecta ESP8266, Firebase e aplicativo Flutter.
 - **Twilight Dawn** — arquitetura e mecânicas de um sistema de combate por turnos em Unreal Engine.
 
-### Atividade no GitHub
+### Stack em foco
 
 <div align="center">
-  <a href="https://github.com/iarleyandrade">
-    <img src="./assets/stats.svg" alt="Estatísticas públicas do perfil GitHub de Iarley Andrade" width="100%" />
-  </a>
+  <img src="./assets/stack.svg" alt="Tecnologias em foco: Angular, Spring Boot, Java, TypeScript, PostgreSQL, Docker e Flutter." width="100%" />
 </div>
 
-> O card acima resume **atividade pública**. Parte do meu trabalho acontece em repositórios privados; quando as contribuições privadas estão habilitadas no perfil, o gráfico nativo do GitHub mostra apenas a atividade anônima, sem nomes ou conteúdo desses repositórios.
+Tecnologias escolhidas para construir produtos completos: interfaces, APIs, regras de negócio, dados e entrega.
 
 ---
 

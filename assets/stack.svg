@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
+  <title id="title">Stack em foco</title>
+  <desc id="desc">Tecnologias usadas para criar produtos completos: Angular, TypeScript, Java, Spring Boot, PostgreSQL, Docker, Flutter e Firebase.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop stop-color="#c9f37b"/>
+      <stop offset="1" stop-color="#76c5c7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="300" rx="16" fill="#101b24" stroke="#36524c"/>
+  <path d="M40 81H960M40 181H960" stroke="#36524c"/>
+  <circle cx="54" cy="48" r="5" fill="#c9f37b"/>
+  <text x="70" y="53" fill="#a5c8b9" font-family="monospace" font-size="13" letter-spacing="2">STACK EM FOCO</text>
+  <text x="960" y="53" fill="#76c5c7" font-family="monospace" font-size="12" text-anchor="end" letter-spacing="1.5">PRODUTOS · SISTEMAS · DADOS</text>
+
+  <g transform="translate(40 106)">
+    <text fill="#c9f37b" font-family="monospace" font-size="11" letter-spacing="2">01 / INTERFACE</text>
+    <text y="39" fill="#f1f4f0" font-family="Arial, sans-serif" font-size="27" font-weight="700">Angular</text>
+    <rect y="56" width="262" height="6" rx="3" fill="url(#accent)"/>
+    <text y="83" fill="#a5c8b9" font-family="monospace" font-size="12">TYPESCRIPT · RXJS</text>
+  </g>
+  <g transform="translate(364 106)">
+    <text fill="#c9f37b" font-family="monospace" font-size="11" letter-spacing="2">02 / APLICAÇÃO</text>
+    <text y="39" fill="#f1f4f0" font-family="Arial, sans-serif" font-size="27" font-weight="700">Java + Spring Boot</text>
+    <rect y="56" width="272" height="6" rx="3" fill="url(#accent)"/>
+    <text y="83" fill="#a5c8b9" font-family="monospace" font-size="12">APIS REST · REGRAS DE NEGÓCIO</text>
+  </g>
+  <g transform="translate(706 106)">
+    <text fill="#c9f37b" font-family="monospace" font-size="11" letter-spacing="2">03 / DADOS</text>
+    <text y="39" fill="#f1f4f0" font-family="Arial, sans-serif" font-size="27" font-weight="700">PostgreSQL</text>
+    <rect y="56" width="254" height="6" rx="3" fill="url(#accent)"/>
+    <text y="83" fill="#a5c8b9" font-family="monospace" font-size="12">SQL · JPA · FLYWAY</text>
+  </g>
+
+  <g transform="translate(40 218)">
+    <text fill="#728c86" font-family="monospace" font-size="11" letter-spacing="1.7">TAMBÉM NO DIA A DIA</text>
+    <rect x="219" y="-14" width="91" height="29" rx="5" fill="#1b2d34" stroke="#36524c"/><text x="264" y="5" text-anchor="middle" fill="#d8e7e0" font-family="monospace" font-size="12">DOCKER</text>
+    <rect x="321" y="-14" width="64" height="29" rx="5" fill="#1b2d34" stroke="#36524c"/><text x="353" y="5" text-anchor="middle" fill="#d8e7e0" font-family="monospace" font-size="12">GIT</text>
+    <rect x="396" y="-14" width="81" height="29" rx="5" fill="#1b2d34" stroke="#36524c"/><text x="436" y="5" text-anchor="middle" fill="#d8e7e0" font-family="monospace" font-size="12">FLUTTER</text>
+    <rect x="488" y="-14" width="86" height="29" rx="5" fill="#1b2d34" stroke="#36524c"/><text x="531" y="5" text-anchor="middle" fill="#d8e7e0" font-family="monospace" font-size="12">FIREBASE</text>
+    <rect x="585" y="-14" width="52" height="29" rx="5" fill="#1b2d34" stroke="#36524c"/><text x="611" y="5" text-anchor="middle" fill="#d8e7e0" font-family="monospace" font-size="12">IOT</text>
+    <rect x="648" y="-14" width="132" height="29" rx="5" fill="#1b2d34" stroke="#36524c"/><text x="714" y="5" text-anchor="middle" fill="#d8e7e0" font-family="monospace" font-size="12">UNREAL ENGINE</text>
+  </g>
+</svg>
