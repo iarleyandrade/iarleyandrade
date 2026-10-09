@@ -11,7 +11,7 @@ Desenvolvedor **Full Stack** e estudante de Ciência da Computação. Trabalho p
 Gosto de entender o problema, conversar sobre a solução e cuidar da experiência de quem vai usar o produto.
 
 <p>
-  <a href="https://iarleyandrade.github.io/"><strong>Conheça meu portfólio ↗</strong></a>
+  <a href="https://iarleyandrade.github.io/portfolio/"><strong>Conheça meu portfólio ↗</strong></a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/andrade-iarley/">LinkedIn</a>
   &nbsp;·&nbsp;
